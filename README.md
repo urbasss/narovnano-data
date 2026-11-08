@@ -16,6 +16,8 @@ size_categories:
 
 # Prodeje spoluvlastnických podílů v ČR 2025–2026
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24058375.svg)](https://doi.org/10.5281/zenodo.24058375)
+
 Souhrnná data o prodejích spoluvlastnických podílů na nemovitostech v České republice z vkladových řízení katastru nemovitostí (ČÚZK), leden 2025 – září 2026. Zpracovalo [Narovnáno.cz](https://narovnano.cz/data/prodeje-podilu-v-cr).
 
 **Hlavní čísla:** v roce 2025 se prodalo 29 072 podílů (15,2 % všech koupí v katastru), medián ceny podílu 197 900 Kč, podíl za m² levnější než celek o 12–16 %, 26,8 % podílů kupuje jiný spoluvlastník, vklad trvá mediánově 22 dní.
@@ -34,4 +36,4 @@ Aggregated statistics on sales of co-ownership shares in real estate in the Czec
 
 ## Citace / Citation
 
-Narovnáno.cz (2026). *Prodeje spoluvlastnických podílů v ČR 2025–2026.* Analýza vkladových řízení ČÚZK. https://narovnano.cz/data/prodeje-podilu-v-cr — licence CC BY 4.0.
+Narovnáno.cz (2026). *Prodeje spoluvlastnických podílů v ČR 2025–2026.* Analýza vkladových řízení ČÚZK. https://narovnano.cz/data/prodeje-podilu-v-cr — DOI 10.5281/zenodo.24058375 — licence CC BY 4.0.
