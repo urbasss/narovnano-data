@@ -1,0 +1,30 @@
+{
+ "upload_type": "dataset",
+ "title": "Prodeje spoluvlastnických podílů v ČR 2025–2026 (Czech real estate co-ownership share sales)",
+ "description": "Souhrnná data o prodejích spoluvlastnických podílů na nemovitostech v České republice z vkladových řízení katastru nemovitostí (ČÚZK), leden 2025 – září 2026: počty prodejů po okresech a katastrálních územích, mediány kupních cen, cena za m² podílu proti celku, parcely ve spoluvlastnictví a doba vkladu. Bez osobních údajů. Zpracovalo Narovnáno.cz – https://narovnano.cz/data/prodeje-podilu-v-cr<br><br>Aggregated statistics on sales of co-ownership shares in real estate in the Czech Republic derived from land registry deed registrations, January 2025 – September 2026. No personal data.",
+ "creators": [
+  {
+   "name": "Narovnáno s.r.o."
+  }
+ ],
+ "license": "cc-by-4.0",
+ "access_right": "open",
+ "language": "ces",
+ "keywords": [
+  "spoluvlastnictví",
+  "spoluvlastnický podíl",
+  "katastr nemovitostí",
+  "ceny nemovitostí",
+  "co-ownership",
+  "real estate",
+  "Czech Republic",
+  "land registry"
+ ],
+ "related_identifiers": [
+  {
+   "identifier": "https://narovnano.cz/data/prodeje-podilu-v-cr",
+   "relation": "isDocumentedBy",
+   "resource_type": "publication-other"
+  }
+ ]
+}
