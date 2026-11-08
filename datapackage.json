@@ -1,0 +1,40 @@
+{
+ "name": "narovnano-podily-cr-2025-2026",
+ "title": "Prodeje spoluvlastnických podílů v ČR 2025–2026",
+ "homepage": "https://narovnano.cz/data/prodeje-podilu-v-cr",
+ "licenses": [
+  {
+   "name": "CC-BY-4.0",
+   "path": "https://creativecommons.org/licenses/by/4.0/"
+  }
+ ],
+ "resources": [
+  {
+   "name": "narovnano-podily-okresy-2025-2026",
+   "path": "data/narovnano-podily-okresy-2025-2026.csv",
+   "format": "csv",
+   "encoding": "utf-8",
+   "dialect": {
+    "delimiter": ";"
+   }
+  },
+  {
+   "name": "narovnano-podily-ku-2025-2026",
+   "path": "data/narovnano-podily-ku-2025-2026.csv",
+   "format": "csv",
+   "encoding": "utf-8",
+   "dialect": {
+    "delimiter": ";"
+   }
+  },
+  {
+   "name": "narovnano-doba-vkladu-okresy-2025-2026",
+   "path": "data/narovnano-doba-vkladu-okresy-2025-2026.csv",
+   "format": "csv",
+   "encoding": "utf-8",
+   "dialect": {
+    "delimiter": ";"
+   }
+  }
+ ]
+}

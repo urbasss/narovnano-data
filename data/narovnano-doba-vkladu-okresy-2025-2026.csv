@@ -1,0 +1,78 @@
+﻿okres;kraj;rizeni_n;median_dni;q1_dni;p90_dni;do_30_dni_pct
+Benešov;Středočeský kraj;7639;25;22;29;96.8
+Beroun;Středočeský kraj;5970;22.0;22;29;91.7
+Blansko;Jihomoravský kraj;5237;22;21;25;97.3
+Brno-město;Jihomoravský kraj;19954;23.0;22;32;88.9
+Brno-venkov;Jihomoravský kraj;15170;22.0;22;28;93.2
+Bruntál;Moravskoslezský kraj;4800;22.0;21;26;94.5
+Břeclav;Jihomoravský kraj;7469;22;22;27;93.8
+Cheb;Karlovarský kraj;6303;22;22;25;98.0
+Chomutov;Ústecký kraj;6581;22;21;25;98.2
+Chrudim;Pardubický kraj;7351;22;22;26;95.7
+Domažlice;Plzeňský kraj;3597;22;22;29;91.1
+Děčín;Ústecký kraj;5157;22;22;26;95.4
+Frýdek-Místek;Moravskoslezský kraj;9814;22.0;22;26;95.2
+Havlíčkův Brod;Kraj Vysočina;6568;25.0;22;29;94.2
+Hlavní město Praha;Hlavní město Praha;58547;23;22;32;88.1
+Hodonín;Jihomoravský kraj;12014;22.0;21;25;97.2
+Hradec Králové;Královéhradecký kraj;8929;22;22;27;92.6
+Jablonec nad Nisou;Liberecký kraj;5624;26.0;23;32;87.3
+Jeseník;Olomoucký kraj;1924;22.0;22;26;98.4
+Jihlava;Kraj Vysočina;6677;22;22;26;94.4
+Jindřichův Hradec;Jihočeský kraj;6486;22.0;22;26;95.9
+Jičín;Královéhradecký kraj;5881;23;22;27;94.9
+Karlovy Vary;Karlovarský kraj;8050;25.0;23;34;86.0
+Karviná;Moravskoslezský kraj;7964;22.0;22;25;96.6
+Kladno;Středočeský kraj;9739;25;22;29;93.8
+Klatovy;Plzeňský kraj;7022;22.0;22;26;97.3
+Kolín;Středočeský kraj;7569;22;21;29;91.8
+Kroměříž;Zlínský kraj;6963;22;22;25;97.6
+Kutná Hora;Středočeský kraj;5648;22.0;21;26;95.5
+Liberec;Liberecký kraj;8803;23;22;31;88.9
+Litoměřice;Ústecký kraj;8130;22.0;22;25;96.5
+Louny;Ústecký kraj;5418;22.0;21;25;96.4
+Mladá Boleslav;Středočeský kraj;7867;22;22;27;95.9
+Most;Ústecký kraj;4773;22;22;26;97.5
+Mělník;Středočeský kraj;6515;25;22;32;87.8
+Nový Jičín;Moravskoslezský kraj;6609;22;22;25;95.0
+Nymburk;Středočeský kraj;7505;22;22;26;97.9
+Náchod;Královéhradecký kraj;6024;24.0;22;30;91.5
+Olomouc;Olomoucký kraj;14003;22;22;26;96.7
+Opava;Moravskoslezský kraj;6903;22;21;26;95.7
+Ostrava-město;Moravskoslezský kraj;12329;22;22;25;97.0
+Pardubice;Pardubický kraj;10067;22;21;25;98.2
+Pelhřimov;Kraj Vysočina;5203;23;22;28;93.8
+Plzeň-jih;Plzeňský kraj;5353;27;24;29;94.3
+Plzeň-město;Plzeňský kraj;9619;27;25;30;93.0
+Plzeň-sever;Plzeňský kraj;6175;22;22;26;95.9
+Prachatice;Jihočeský kraj;2880;22.0;22;25;97.0
+Praha-východ;Středočeský kraj;11652;22.0;22;28;93.7
+Praha-západ;Středočeský kraj;9575;23;22;30;90.7
+Prostějov;Olomoucký kraj;6275;22;21;25;97.7
+Písek;Jihočeský kraj;5355;22;21;26;97.3
+Přerov;Olomoucký kraj;8045;23;22;29;92.7
+Příbram;Středočeský kraj;7790;22.0;21;28;93.5
+Rakovník;Středočeský kraj;4291;24;22;30;90.9
+Rokycany;Plzeňský kraj;3197;22;22;27;95.8
+Rychnov nad Kněžnou;Královéhradecký kraj;5103;22;22;27;95.7
+Semily;Liberecký kraj;4796;22.0;21;29;91.7
+Sokolov;Karlovarský kraj;5561;27;24;31;89.9
+Strakonice;Jihočeský kraj;4197;22;22;26;96.2
+Svitavy;Pardubický kraj;7305;22;22;26;96.2
+Tachov;Plzeňský kraj;3454;23.0;22;26;97.7
+Teplice;Ústecký kraj;4628;22.0;21;25;98.0
+Trutnov;Královéhradecký kraj;6952;22.0;21;27;95.9
+Tábor;Jihočeský kraj;7061;22;21;25;97.2
+Třebíč;Kraj Vysočina;7473;22;22;26;95.7
+Uherské Hradiště;Zlínský kraj;9111;22;22;26;96.8
+Vsetín;Zlínský kraj;7983;22;22;26;95.4
+Vyškov;Jihomoravský kraj;5453;22;22;25;98.0
+Zlín;Zlínský kraj;12397;22;22;25;98.6
+Znojmo;Jihomoravský kraj;7435;23;22;27;96.7
+Ústí nad Labem;Ústecký kraj;6116;22.0;21;25;97.9
+Ústí nad Orlicí;Pardubický kraj;8009;22;22;26;95.5
+Česká Lípa;Liberecký kraj;5461;23;22;29;92.8
+České Budějovice;Jihočeský kraj;12119;25;22;31;89.1
+Český Krumlov;Jihočeský kraj;3715;22;22;27;93.5
+Šumperk;Olomoucký kraj;6189;22;21;25;98.8
+Žďár nad Sázavou;Kraj Vysočina;6893;22;21;30;91.0
