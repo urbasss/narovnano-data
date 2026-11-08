@@ -35,6 +35,15 @@
    "dialect": {
     "delimiter": ";"
    }
+  },
+  {
+   "name": "narovnano-spoluvlastnictvo-sk-okresy",
+   "path": "data/narovnano-spoluvlastnictvo-sk-okresy.csv",
+   "format": "csv",
+   "encoding": "utf-8",
+   "dialect": {
+    "delimiter": ";"
+   }
   }
  ]
 }

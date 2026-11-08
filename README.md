@@ -27,6 +27,7 @@ Souhrnná data o prodejích spoluvlastnických podílů na nemovitostech v Česk
 | `data/narovnano-podily-okresy-2025-2026.csv` | 77 okresů: prodeje podílů, mediány cen, Kč/m² podíl × celek, parcely ve spoluvlastnictví, doba vkladu |
 | `data/narovnano-podily-ku-2025-2026.csv` | 2 821 katastrálních území s nejméně 5 prodeji: počty, medián ceny, druhy nemovitostí, parcely ve spoluvlastnictví |
 | `data/narovnano-doba-vkladu-okresy-2025-2026.csv` | doba od podání návrhu do zápisu vkladu po okresech |
+| `data/narovnano-spoluvlastnictvo-sk-okresy.csv` | Slovensko, 79 okresů: listy vlastníctva podle počtu vlastníků, nezjištění vlastníci, rozdrobenost lesů a orné půdy (https://narovnano.cz/sk/spoluvlastnictvo-na-slovensku) |
 
 Oddělovač `;`, kódování UTF-8. Metodika: úplatné převody spoluvlastnických podílů zapsané vkladem; bez převodů celých nemovitostí, podílů na společných částech domů s jednotkami a vypořádání SJM; ceny jako medián z nejméně 5 prodejů; bez osobních údajů.
 
