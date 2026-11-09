@@ -1,49 +1,101 @@
 {
- "name": "narovnano-podily-cr-2025-2026",
- "title": "Prodeje spoluvlastnických podílů v ČR 2025–2026",
- "homepage": "https://narovnano.cz/data/prodeje-podilu-v-cr",
- "licenses": [
-  {
-   "name": "CC-BY-4.0",
-   "path": "https://creativecommons.org/licenses/by/4.0/"
-  }
- ],
- "resources": [
-  {
-   "name": "narovnano-podily-okresy-2025-2026",
-   "path": "data/narovnano-podily-okresy-2025-2026.csv",
-   "format": "csv",
-   "encoding": "utf-8",
-   "dialect": {
-    "delimiter": ";"
-   }
-  },
-  {
-   "name": "narovnano-podily-ku-2025-2026",
-   "path": "data/narovnano-podily-ku-2025-2026.csv",
-   "format": "csv",
-   "encoding": "utf-8",
-   "dialect": {
-    "delimiter": ";"
-   }
-  },
-  {
-   "name": "narovnano-doba-vkladu-okresy-2025-2026",
-   "path": "data/narovnano-doba-vkladu-okresy-2025-2026.csv",
-   "format": "csv",
-   "encoding": "utf-8",
-   "dialect": {
-    "delimiter": ";"
-   }
-  },
-  {
-   "name": "narovnano-spoluvlastnictvo-sk-okresy",
-   "path": "data/narovnano-spoluvlastnictvo-sk-okresy.csv",
-   "format": "csv",
-   "encoding": "utf-8",
-   "dialect": {
-    "delimiter": ";"
-   }
-  }
- ]
+  "name": "narovnano-podily-cr-2025-2026",
+  "title": "Prodeje spoluvlastnických podílů v ČR 2025–2026",
+  "homepage": "https://narovnano.cz/data/prodeje-podilu-v-cr",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "resources": [
+    {
+      "name": "narovnano-podily-okresy-2025-2026",
+      "path": "data/narovnano-podily-okresy-2025-2026.csv",
+      "format": "csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ";"
+      }
+    },
+    {
+      "name": "narovnano-podily-ku-2025-2026",
+      "path": "data/narovnano-podily-ku-2025-2026.csv",
+      "format": "csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ";"
+      }
+    },
+    {
+      "name": "narovnano-doba-vkladu-okresy-2025-2026",
+      "path": "data/narovnano-doba-vkladu-okresy-2025-2026.csv",
+      "format": "csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ";"
+      }
+    },
+    {
+      "name": "narovnano-spoluvlastnictvo-sk-okresy",
+      "path": "data/narovnano-spoluvlastnictvo-sk-okresy.csv",
+      "format": "csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ";"
+      }
+    },
+    {
+      "name": "narovnano-index-podilu",
+      "path": "narovnano-index-podilu.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Index podílů Narovnáno (IPN) – měsíční řada",
+      "description": "Měsíční počet úplatných převodů spoluvlastnických podílů v ČR (měsíc podání návrhu na vklad), index aktivity (průměr 2025 = 100), meziroční změna, medián ceny a počty podle druhu. Zdroj ČÚZK.",
+      "schema": {
+        "fields": [
+          {
+            "name": "mesic",
+            "type": "yearmonth"
+          },
+          {
+            "name": "prodane_podily",
+            "type": "integer"
+          },
+          {
+            "name": "index_2025_100",
+            "type": "number"
+          },
+          {
+            "name": "mezirocne_pct",
+            "type": "number"
+          },
+          {
+            "name": "median_cena_kc",
+            "type": "integer"
+          },
+          {
+            "name": "zemedelska",
+            "type": "integer"
+          },
+          {
+            "name": "les",
+            "type": "integer"
+          },
+          {
+            "name": "zahrada",
+            "type": "integer"
+          },
+          {
+            "name": "dum",
+            "type": "integer"
+          },
+          {
+            "name": "ostatni",
+            "type": "integer"
+          }
+        ]
+      }
+    }
+  ]
 }

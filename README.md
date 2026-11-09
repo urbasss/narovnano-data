@@ -38,3 +38,12 @@ Aggregated statistics on sales of co-ownership shares in real estate in the Czec
 ## Citace / Citation
 
 Narovnáno.cz (2026). *Prodeje spoluvlastnických podílů v ČR 2025–2026.* Analýza vkladových řízení ČÚZK. https://narovnano.cz/data/prodeje-podilu-v-cr — DOI 10.5281/zenodo.24058375 — licence CC BY 4.0.
+
+
+## Index podílů Narovnáno (IPN)
+
+`narovnano-index-podilu.csv` – měsíční ukazatel trhu spoluvlastnických podílů v ČR: počet úplatných převodů podílů podle měsíce podání návrhu na vklad, **index aktivity (průměr roku 2025 = 100)**, meziroční změna a medián ceny. Živá verze s grafem a cenami za m²: https://narovnano.cz/data/index-podilu
+
+V 1. pololetí 2026 se prodalo 13 179 podílů (−8,8 % proti 1. pololetí 2025); medián ceny podílu za m² vzrostl u zemědělské půdy o 7 %, u lesa o 12 % a u zahrad a pozemků v obci o 39 %.
+
+Citace: *Index podílů Narovnáno (IPN), Narovnáno.cz, data ČÚZK.*
